@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "別れた後で",
+  "base_artist": "セカンドバッカー",
+  "createdAt": "2026-01-13T18:28:59.139640Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "別れた後で",
+      "artist": "セカンドバッカー",
+      "has_synced": false,
+      "path": "select/pl_01_別れた後で_セカンドバッカー.txt"
+    }
+  ]
+}
